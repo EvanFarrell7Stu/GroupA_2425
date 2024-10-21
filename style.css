@@ -1,7 +1,12 @@
 p{
-  font:Verdana;
-  color:red;
-}
+
+    font:Verdana;
+    color:red;
+  }
 h1{
-  font:Verdana;
-  {
+    font:Verdana;
+}
+h2{
+    background-color:purple;
+}
+
