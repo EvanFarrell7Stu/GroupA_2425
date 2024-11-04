@@ -1,4 +1,10 @@
-p {
-    color:blue;
-    background-color: black;
+p{
+    font:Verdana;
+    color:red;
+  }
+h1{
+    font:Verdana;
+}
+h2{
+    background-color:purple;
 }
